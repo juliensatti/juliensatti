@@ -1,9 +1,9 @@
 👋 Hi, I’m @juliensatti!
 
-👀 I’m interested in Computer Sciences, Management, Marketing and many other things...
+👀 I’m a software architect, full-stack engineer and entrepreneur interested in many other things...
 
-🌱 I’m currently in the last year of my engineering degree at Polytech' Nice Sophia.
+🌱 I’ve graduated from Polytech' Nice Sophia (engineering degree) and IAE Nice (master), in 2023, as valedictorian (in both!).
 
-💞️ I’m looking to collaborate on all sorts of projects where I can make the difference.
+💞️ I’m open to collaborate on all sorts of projects where I can make the difference.
 
 📫 You can reach me on [LinkedIn](https://linkedin.com/in/juliensatti)!
